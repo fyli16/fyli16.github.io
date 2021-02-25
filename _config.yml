@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Feiyu Li"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Research Scientist at New Mexico Consortium working on Plasma Physics and Laser-Plasma Physics"
+  location         : "Los Alamos, NM"
+  email            : fyli.acad@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
