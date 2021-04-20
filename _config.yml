@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feiyu Li"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research scientist at New Mexico Consortium \\
+  name             : "Feiyu Li" 
+  avatar           : "/assets/images/Me_Pitlochry.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Research scientist at New Mexico Consortium,
                       working on plasma physics and laser-plasma physics"
   location         : "Los Alamos, NM"
   email            : fyli.acad@gmail.com
