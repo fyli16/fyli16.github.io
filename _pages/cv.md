@@ -20,6 +20,14 @@ Experience
 * 2019.01 – 2021.01: Postdoctoral Research Associate, Los Alamos National Lab, US
 * 2015.02 – 2018.08: Research Associate, University of Strathclyde, UK
 
+Recent projects
+======
+* PI, "The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta", 2024-2027, DOE
+* PI, “Steps toward direct observation of the Alfvén wave parametric decay instability in a laboratory plasma”, 2023-2025, DOE
+* PI, “Scaling studies of seeded Alfvén wave parametric decay instability in the laboratory”, 2023-2026, NASA
+* Co-I, "Modeling realistic chorus generation using large-scale particle-in-cell simulations", 2022-2026, NSF
+* PI, “Scaling of seeded Alfven wave parametric decay”, 2023-2025, MagNetUS experimental runtime award 
+
 Awards
 ======
 * 2015 – Tsai Shih‑Tung Plasma Physics Award, Awarded by Pei-Yuan Chou Funds
@@ -28,8 +36,8 @@ Awards
 * 2013 – AMD High-Performance Computing Award, Awarded by AMD Inc. 
 * 2013 – National Scholarship, Awarded by Chinese Ministry of Education
 * 2011 – Excellent Teaching Assistant, Awarded by Shanghai Jiao Tong University
-* 2008 – Dimond Award, Awarded by Central South University
-* 2007 – Jiang Weiying Scholarship, Awarded by Central South University
+<!-- * 2008 – Dimond Award, Awarded by Central South University
+* 2007 – Jiang Weiying Scholarship, Awarded by Central South University -->
 
 
 Publications
@@ -75,13 +83,13 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
 * Taught College Lab Physics during 2010-2011 at Shanghai Jiao Tong University
 * Taught the Second‑Year Lab Physics during 2016‑2017 at University of Strathclyde
 * Co‑supervised (2nd supervisor) two PH450 projects (undergraduate) at University of Strathclyde
 * Co‑supervised (2nd supervisor) one PH550 project (postgraduate) at University of Strathclyde
-* Co‑supervised (2nd supervisor) three summer interns at Los Alamos National Laboratory
+* Co‑supervised (2nd supervisor) three summer interns at Los Alamos National Laboratory -->
 
 
 <!-- Skills
@@ -99,8 +107,8 @@ Teaching
   * Drafted the full proposal (15-page) that is currently pending with NSF/DOE Partnership -->
 
   
-Service
+<!-- Service
 ======
 * Referee for top physics journals. Over the past 3 years, reviewed 18 papers, including 7 Physical Review Letters, 4 Physics of Plasmas, 3 Physical Review E, 2 Physical Review Accelerator Beams, 1 Physical Review Applied, 1 Physical Review Research.
-* Judge for Outstanding Student Presentation Awards (OSPA), AGU Fall Meeting 2021
+* Judge for Outstanding Student Presentation Awards (OSPA), AGU Fall Meeting 2021 -->
 
