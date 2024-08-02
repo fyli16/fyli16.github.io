@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/feiyu-li-86873280/"
+  linkedin         : "https://www.linkedin.com/in/feiyu-li-86873280/"
   orcid            : "https://orcid.org/0000-0001-8638-8779"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  googlesite       : #"https://sites.google.com/view/feiyuli"
+  googlesite       : "https://sites.google.com/view/feiyuli"
 
 
 # Reading Files
