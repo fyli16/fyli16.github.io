@@ -11,7 +11,7 @@ redirect_from:
 I am currently a research scientist at [New Mexico Consortium](https://newmexicoconsortium.org/). 
 I am primarily interested in computational, theoretical and experimental modeling of [plasma physics](https://en.wikipedia.org/wiki/Plasma_%28physics%29) with applications to plasma-based accelerators, attosecond metrology, space science, and fusion energy, etc. 
 
-Click [here](https://fyli16.github.io/cv/) to check out our recent projects, publications and presentations. 
+Check out our recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/). Feel free to get in touch!
 
 
 <!-- Supervised by Prof. [Zheng-Ming Sheng](https://www.physics.sjtu.edu.cn/en/people/1/zmSheng), I received my PhD in Plasma Physics from [Shanghai Jiao Tong University](https://llp.sjtu.edu.cn/En) in 2015, and then joined his group at [University of Strathclyde](https://silis.phys.strath.ac.uk/index.htm) as a postdoc. During my stay in the UK, I paid a six-week academic visit (in 2017) to [CEA Paris-Saclay](https://iramis.cea.fr/LIDYL/en/index.php). I moved to the US in 2019. Before joining NMC, I was a postdoc at [Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) for two years.  -->
