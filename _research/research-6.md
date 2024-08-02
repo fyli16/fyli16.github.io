@@ -1,23 +1,16 @@
 ---
-title: "Laser wakefield acceleration: towards compact electron accelerator and ultrashort coherent light sources"
-excerpt: "<br/><img src='/images/LWFA.png' width='400' height='240'>"
+title: "CoSyR: coherent synchrotron radiation and self-consistent beam dynamics in synchrotrons"
+excerpt: "<br/><img src='/images/cosyr.png' width='400' height='240'>"
 collection: research
 ---
 
-Modern accelerators are built on radio-frequency technologies. Accelerating fields as high as ~50MV/m can be achieved. With fields beyond that, the metallic rf-cavitites break down. In order to accelerate GeV beam energies, accelerating cavities of 100s meters is thus a must. Recently, the laser wakefield acceleration emerges as a new technique, holding the promise to greatly shrink the size of future accelerators. It operates with a plasma medium, instead of metallic cavities. The plasma is ionized matter (i.e., already broken down), but it can be perturbed to have regular wave structures bearing super-strong fields (~100GV/m), 3 orders of magnitude larger than with rf-cavitites. Thus, a plasma-based accelerator can achieve GeV acceleration in just millimeters. High-intensity short-pulse lasers can be used to drive the perturbation, creating laser wake waves in an gaseous plasma. This acceleration has normally produced femtosecond narrow electron bunches, which are drivers for femtosecond incoherent x-ray sources. 
+High-brightness (dense, short-pulsed, well-collimated) electron beams underpin the modern accelerators and x-ray light sources (such as the free-electron-lasers). Charged particles radiate electromagnetic waves when they accelerate. This is called synchrotron radiation for modern storage-ring based accelerators. The radiation power increases so sharply with the beam brightness/energy to a level that the radiation may directly perturb the beam dynamics (such as micro-bunching). Accurately modeling this kind of beam dynamics is crucial to the design of modern accelerators, but is also extremely challenging because of the history dependence (e.g., radiation travels forward at a negligible pace relative to the highly relativistic beam, so the radiation at beam head may originate long ago from electrons at the beam tail). 
 
-Here, we show under proper plasma density control, it is possible to generate attosecond (3 orders of magnitude shorter than femtoseconds) electron beams of wide diameters. Such an attosecond electron sheet can radiate super-strong fully coherent attosecond light pulses when it undergoes radial contraction in the plasma wake. It can also serve as an ultrarelativistic flying mirror for the generation of coherent x-ray lights via Thomson backscattering. 
+Here, we construct a computational framework that can do this job self-consistently in a time-progression fashion. It is based on a Lagrangian method for the electromagnetic wave calculation. These waves, represented by wavelets, are emitted at each step, and they are traced at successive steps forming a set of near-field wavelets at real-time of the beam. These wavelets are then interpolated to a moving mesh of the beam in order to push particles. This way, the coherent synchrotron radiation effects can be simulated self-consistently with small errors as compared to usual FDTD methods. 
 
-F.-Y. Li, Z.-M. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, Phys. Rev. Lett. 110, 135002 (2013).
+F.-Y. Li, C.-K. Huang, R. V. Garimella, T. J. T. Kwan, and B. E. Carlsten, Validation of a novel method for the calculation of near-field synchrotron radiation, Proc. of 10th IPAC, 397-399 (2019).
 
-F.-Y. Li, Z.-M. Sheng, M. Chen, L.-L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation, Phys. Rev. E 90,043104 (2014).
+C.-K. Huang, F.-Y. Li, H. N. Rakotoarivelo, et al., CoSyR: a novel beam dynamics code for the modeling of synchrotron radiation effects, arXiv:2109.14901; Nucl. Inst. Methods A (2022).
 
-F.-Y. Li, Z.-M. Sheng, M. Chen, H.-C. Wu, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, Coherent kilo-electron-volt backscattering from plasma-wave boosted relativistic electron mirrors, Appl. Phys. Lett. 105, 161102 (2014).
+[CoSyR repo](https://github.com/lanl/cosyr)
 
-J. Mu, F.-Y. Li, M. Zeng, M. Chen, Z.-M. Sheng, and J. Zhang, Robust relativistic electron mirrors in laser wakefields for enhanced Thomson backscattering, Appl. Phys. Lett. 103, 261114 (2013).
-
-Y. Liu, F.-Y. Li, M. Zeng, M. Chen, and Z.-M. Sheng, Ultra-intense attosecond pulses emitted from laser wakefields in non-uniform plasmas, Laser and Particle Beams, 31, 233 (2013).
-
-M. Chen, J. Luo, F.-Y. Li, F. Liu, Z.-M. Sheng, and J. Zhang, Tunable synchrotron-like radiation from centimeter scale plasma channels, Light: Science & Applications, 5, e16015 (2016).
-
-X. Yang, E. Brunetti, D. Reboredo Gil, G. Welsh, F.-Y. Li, et al., Three electron beams from a laser-plasma wakefield accelerator and the energy apportioning question, Scientific Reports, 7, 43910 (2017).

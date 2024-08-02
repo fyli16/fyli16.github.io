@@ -25,7 +25,7 @@ redirect_from:
 * PI, [Scaling of seeded Alfven wave parametric decay](https://plasma.physics.ucla.edu/current-projects.html), 2023-2025, MagNetUS experimental runtime award 
 
 ## Selected Awards
-* 2015 – Tsai Shih‑Tung Plasma Physics Award, Awarded by Pei-Yuan Chou Funds
+* 2015 – [Tsai Shih‑Tung Plasma Physics Award](http://www.zpyf.org.cn/zzjl/csddlzwlj/54.html), Awarded by Pei-Yuan Chou Funds
 * 2013 – Wang Da-Heng Optics Award, Awarded by Chinese Optical Society
 * 2013 – China Important Optics Achievement Award, Awarded by Chinese Laser Press
 * 2013 – AMD High-Performance Computing Award, Awarded by AMD Inc. 
@@ -36,7 +36,7 @@ redirect_from:
 
 
 ## Publications
-1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, Physical Review Letters 110, 135002 (2013).
+1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.135002), Physical Review Letters 110, 135002 (2013).
 2.  P. K. Singh#, F. Li#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. J. Rocca, R. E. Reinovsky, and S. Palaniyappan, Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection, Nature Communications 13, 54 (2022). #Equal contribution
 3.  F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, Particle resonances and trapping of direct laser acceleration in a laser-plasma channel, Physical Review Accelerators and Beams 24, 041301 (2021).
 4.  F. Li, X. Fu, and S. Dorfman, Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas, arXiv preprint arXiv:2403.08179, accepted to Physics of Plasmas (2024).

@@ -1,5 +1,5 @@
 ---
-title: "Alfvén waves, laboratory plasma experiment, space plasmas, astrophysical plasmas, particle-in-cell simulation, hybrid simulation, MHD"
+title: "Alfvén waves, laboratory plasmas, space plasmas, astrophysical plasmas, geophysics, hybrid simulation, MHD"
 excerpt: "<br/><img src='/images/spaceweatherNASA.jpeg' width='400' height='240'>"
 collection: research
 ---
