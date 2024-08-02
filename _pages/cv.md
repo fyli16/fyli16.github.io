@@ -11,7 +11,6 @@ redirect_from:
 
 
 ## Education and Professional Experience
-======
 * 01/2021 – present: Research Scientist, [New Mexico Consortium](https://newmexicoconsortium.org/), Los Alamos, New Mexico, USA
 * 01/2019 – 01/2021: Postdoctoral Research Associate, [Los Alamos National Lab](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php), Los Alamos, New Mexico, USA
 * 02/2015 – 08/2018: Research Associate, [University of Strathclyde](https://silis.phys.strath.ac.uk/index.htm), Glasgow, Scotland, UK
@@ -19,7 +18,6 @@ redirect_from:
 * 09/2005 - 06/2009: B.S. in Applied Physics, Central South University, Changsha, China
 
 ## Recent projects
-======
 * PI, The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta, 2024-2027, DOE
 * PI, [Steps toward direct observation of the Alfvén wave parametric decay instability in a laboratory plasma](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=e5fd67b0-f5f4-4123-abf1-a0a6c267c479&rtc=24&PRoleId=10), 2023-2025, DOE
 * PI, [Scaling studies of seeded Alfvén wave parametric decay instability in the laboratory](https://hesto.smce.nasa.gov/portfolio/), 2023-2026, NASA
@@ -27,7 +25,6 @@ redirect_from:
 * PI, [Scaling of seeded Alfven wave parametric decay](https://plasma.physics.ucla.edu/current-projects.html), 2023-2025, MagNetUS experimental runtime award 
 
 ## Selected Awards
-======
 * 2015 – Tsai Shih‑Tung Plasma Physics Award, Awarded by Pei-Yuan Chou Funds
 * 2013 – Wang Da-Heng Optics Award, Awarded by Chinese Optical Society
 * 2013 – China Important Optics Achievement Award, Awarded by Chinese Laser Press
@@ -39,7 +36,6 @@ redirect_from:
 
 
 ## Publications
-======
 1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, Physical Review Letters 110, 135002 (2013).
 2.  P. K. Singh#, F. Li#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. J. Rocca, R. E. Reinovsky, and S. Palaniyappan, Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection, Nature Communications 13, 54 (2022). #Equal contribution
 3.  F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, Particle resonances and trapping of direct laser acceleration in a laser-plasma channel, Physical Review Accelerators and Beams 24, 041301 (2021).
@@ -78,7 +74,6 @@ redirect_from:
 36. Angana Mondal, Ratul Sabui, Sheroy Tata, RMGM Trines, SV Rahul, Feiyu Li, Soubhik Sarkar, William Trickey, Rakesh Y Kumar, Debobrata Rajak, John Pasley, Zhengming Sheng, Jagannath Jha, M Anand, Ram Gopal, APL Robinson, M Krishnamurthy, Shaped liquid drops generate MeV temperature electron beams with millijoule class laser, Communications Physics, 7, 85, (2024).
 
 ## First-Author Presentations
-======
 1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang Dense attosecond electron sheets from laser wakefields using an up-ramp density transition and its implications for intense isolated attosecond pulses, Poster Presentation at the 6th Asian Summer School and Symposium on Laser-Plasma Acceleration, Nara, Japan, September 3-6, 2013.
 2.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang Dense attosecond electron sheets from laser wakefields using an up-ramp density transition and its implications for intense isolated attosecond pulses, Poster Presentation at the 2013 International Conference on Inertial Fusion Science and Applications (IFSA), Nara, Japan, September 8-12, 2013.
 3.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Controlled generation of dense attosecond electron sheets from laser wakefields, Contributed Talk at the 1st International Symposium on High Power Laser Science and Engineering (HPLSE), Suzhou, China, March 10-15, 2014.
