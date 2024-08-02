@@ -4,10 +4,10 @@ main:
   #   url: /publications/
 
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
-  - title: "Presentations"
-    url: /talks/    
+  # - title: "Presentations"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -18,7 +18,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
     
   # - title: "Guide"
