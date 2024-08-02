@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* 2009.06 – B.S. in Applied Physics, Central South University
-* 2015.03 – Ph.D. in Plasma Physics, Shanghai Jiao Tong University
+* 09/2005 - 06/2009: B.S. in Applied Physics, Central South University, Changsha, China
+* 09/2009 - 03/2015: Ph.D. in Plasma Physics, [Shanghai Jiao Tong University](https://llp.sjtu.edu.cn/), Shanghai, China
 
 Experience
 ======
-* 2021.01 – present: Research Scientist, New Mexico Consortium, US
-* 2019.01 – 2021.01: Postdoctoral Research Associate, Los Alamos National Lab, US
-* 2015.02 – 2018.08: Research Associate, University of Strathclyde, UK
+* 01/2021 – present: Research Scientist, [New Mexico Consortium](https://newmexicoconsortium.org/), Los Alamos, New Mexico, USA
+* 01/2019 – 01/2021: Postdoctoral Research Associate, [Los Alamos National Lab](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php), Los Alamos, New Mexico, USA
+* 02/2015 – 08/2018: Research Associate, [University of Strathclyde](https://silis.phys.strath.ac.uk/index.htm), Glasgow, Scotland, UK
 
 Recent projects
 ======
-* PI, "The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta", 2024-2027, DOE
-* PI, “Steps toward direct observation of the Alfvén wave parametric decay instability in a laboratory plasma”, 2023-2025, DOE
-* PI, “Scaling studies of seeded Alfvén wave parametric decay instability in the laboratory”, 2023-2026, NASA
-* Co-I, "Modeling realistic chorus generation using large-scale particle-in-cell simulations", 2022-2026, NSF
-* PI, “Scaling of seeded Alfven wave parametric decay”, 2023-2025, MagNetUS experimental runtime award 
+* PI, The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta, 2024-2027, DOE
+* PI, [Steps toward direct observation of the Alfvén wave parametric decay instability in a laboratory plasma](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=e5fd67b0-f5f4-4123-abf1-a0a6c267c479&rtc=24&PRoleId=10), 2023-2025, DOE
+* PI, [Scaling studies of seeded Alfvén wave parametric decay instability in the laboratory](https://hesto.smce.nasa.gov/portfolio/), 2023-2026, NASA
+* Co-I, [Modeling realistic chorus generation using large-scale particle-in-cell simulations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209155&HistoricalAwards=false), 2022-2026, NSF
+* PI, [Scaling of seeded Alfven wave parametric decay](https://plasma.physics.ucla.edu/current-projects.html), 2023-2025, MagNetUS experimental runtime award 
 
-Awards
+Selected Awards
 ======
 * 2015 – Tsai Shih‑Tung Plasma Physics Award, Awarded by Pei-Yuan Chou Funds
 * 2013 – Wang Da-Heng Optics Award, Awarded by Chinese Optical Society
