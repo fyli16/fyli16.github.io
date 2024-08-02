@@ -8,21 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at [New Mexico Consortium](https://newmexicoconsortium.org/). 
+Primarily interested in computational, theoretical and experimental modeling of [plasma physics](https://en.wikipedia.org/wiki/Plasma_%28physics%29) with applications to plasma-based accelerators, attosecond metrology, space science, and fusion energy, etc. 
+
+<!-- Check out our recent projects and publications. -->
+
+<!-- I am currently a research scientist at [New Mexico Consortium](https://newmexicoconsortium.org/).  -->
 <!-- Supervised by Prof. [Zheng-Ming Sheng](https://www.physics.sjtu.edu.cn/en/people/1/zmSheng), I received my PhD in Plasma Physics from [Shanghai Jiao Tong University](https://llp.sjtu.edu.cn/En) in 2015, and then joined his group at [University of Strathclyde](https://silis.phys.strath.ac.uk/index.htm) as a postdoc. During my stay in the UK, I paid a six-week academic visit (in 2017) to [CEA Paris-Saclay](https://iramis.cea.fr/LIDYL/en/index.php). I moved to the US in 2019. Before joining NMC, I was a postdoc at [Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) for two years.  -->
-My current research interests include computational, theoretical and experimental modeling of plasma physics with applications to [compact/advanced plasma accelerators](https://en.wikipedia.org/wiki/Plasma_acceleration), [ultrafast optics](https://en.wikipedia.org/wiki/Ultrashort_pulse), [high-energy-density physics](https://en.wikipedia.org/wiki/High_energy_density_physics) and space science. 
+<!-- My current research interests include computational, theoretical and experimental modeling of plasma physics with applications to [compact/advanced plasma accelerators](https://en.wikipedia.org/wiki/Plasma_acceleration), [ultrafast optics](https://en.wikipedia.org/wiki/Ultrashort_pulse), [high-energy-density physics](https://en.wikipedia.org/wiki/High_energy_density_physics) and space science.  -->
 <!-- Notably, I have investigated several schemes for plasma-based accelerators and nonlinear plasma optics, including a first proposal for generating attosecond electron and radiation pulses from [laser wakefield acceleration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.135002), a comprehensive analysis on [direct laser acceleration](https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.24.041301), and a viable scheme for [vacuum laser acceleration](https://www.nature.com/articles/s41467-021-27691-w), etc. I co-developed the [CoSyR](https://github.com/lanl/cosyr) code, which allows for self-consistent modeling of beam dynamics in synchrotrons. Recently, I have extended my work to [space plasmas](https://en.wikipedia.org/wiki/Space_physics), where I further develop a [hybrid code](https://github.com/fyli16/h3d) for modeling [laboratory plasmas](https://plasma.physics.ucla.edu/).  -->
 <!-- Check out my [Google Scholar](https://scholar.google.com/citations?user=8jVlsdoAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Feiyu-Li-4) for more about my research.  -->
 
 Selected publications
 ======
-[1] F. Y. Li, Z. M. Sheng, et al., Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, [Phys. Rev. Lett., 110, 135002](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.135002) (2013).
+F. Li, X. Fu, and S. Dorfman, [Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas](https://drive.google.com/file/d/1-fKsv396pD8m5WaU7dvYXtAO-whTGfix/view?usp=drive_link), arXiv preprint arXiv:2403.08179 (2024) [PDF]
+
+F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), Physical Review Letters 110, 135002 (2013).  [PDF]
+
+P. Singh#, F. Li#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. Rocca, R. Reinovsky, and S. Palaniyappan, [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), Nature Communications 13, 54 (2022).  #Equal contribution [PDF]
+
+F. Li\*, P. K. Singh, S. Palaniyappan, and C. Huang\*, [Particle resonances and trapping of direct laser acceleration in a laser-plasma channel](https://drive.google.com/file/d/1KFGZTYbHff1pens0bXv-YAZ0NjhJTM5h/view?usp=drive_link), Physical Review Accelerators and Beams 24, 041301 (2021). [PDF]
+
+F. Li, Z. Sheng, M. Chen, L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, [Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation](https://drive.google.com/file/d/1aIZc3XbUy6T_ovCbviBMdiduXa0V8Lb9/view?usp=drive_link), Physical Review E 90, 043104 (2014). [PDF]
+
+
+<!-- [1] F. Y. Li, Z. M. Sheng, et al., Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, [Phys. Rev. Lett., 110, 135002](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.135002) (2013).
 
 [2] P. Singh\*, F.-Y. Li\*(co-first author), et al., Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection, [Nature Communications, 13, 54](https://www.nature.com/articles/s41467-021-27691-w) (2022).
 
 [3] F.-Y. Li, et al., Particle resonances and trapping of direct laser acceleration in a laser-plasma channel, [Phys. Rev. Accel. Beams, 24, 041301](https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.24.041301) (2021).
 
-[4] F. Li, X. Fu, and S. Dorfman, Parametric decay of Alfvénic wave packets in nonperiodic low-beta plasmas, [The Astrophysical Journal, 924, 33](https://iopscience.iop.org/article/10.3847/1538-4357/ac32c0) (2022).
+[4] F. Li, X. Fu, and S. Dorfman, Parametric decay of Alfvénic wave packets in nonperiodic low-beta plasmas, [The Astrophysical Journal, 924, 33](https://iopscience.iop.org/article/10.3847/1538-4357/ac32c0) (2022). -->
 
 <!-- [5] C.-K. Huang, F.-Y. Li, et al., CoSyR: a novel beam dynamics code for the modeling of synchrotron radiation effects, [arXiv:2109.14901](https://arxiv.org/abs/2109.14901) (2021). -->
 
