@@ -33,7 +33,7 @@ redirect_from:
 * 2011 – Excellent Teaching Assistant, Awarded by Shanghai Jiao Tong University
 
 
-## Publications (that I lead or made a significant contribution to)
+## Publications (that I led or made a significant contribution to)
 1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, Physical Review Letters 110, 135002 (2013).
 1.  P. K. Singh#, F. Li#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. J. Rocca, R. E. Reinovsky, and S. Palaniyappan, Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection, Nature Communications 13, 54 (2022). #Equal contribution
 1.  F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, Particle resonances and trapping of direct laser acceleration in a laser-plasma channel, Physical Review Accelerators and Beams 24, 041301 (2021).
