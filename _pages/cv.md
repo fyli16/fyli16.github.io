@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 09/2005 - 06/2009: B.S. in Applied Physics, Central South University, Changsha, China
-* 09/2009 - 03/2015: Ph.D. in Plasma Physics, [Shanghai Jiao Tong University](https://llp.sjtu.edu.cn/), Shanghai, China
 
-Experience
+Education and Professional Experience
 ======
 * 01/2021 – present: Research Scientist, [New Mexico Consortium](https://newmexicoconsortium.org/), Los Alamos, New Mexico, USA
 * 01/2019 – 01/2021: Postdoctoral Research Associate, [Los Alamos National Lab](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php), Los Alamos, New Mexico, USA
 * 02/2015 – 08/2018: Research Associate, [University of Strathclyde](https://silis.phys.strath.ac.uk/index.htm), Glasgow, Scotland, UK
+* 09/2009 - 03/2015: Ph.D. in Plasma Physics, [Shanghai Jiao Tong University](https://llp.sjtu.edu.cn/), Shanghai, China
+* 09/2005 - 06/2009: B.S. in Applied Physics, Central South University, Changsha, China
 
 Recent projects
 ======
