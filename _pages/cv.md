@@ -25,7 +25,7 @@ redirect_from:
 * PI, [Scaling of seeded Alfven wave parametric decay](https://plasma.physics.ucla.edu/current-projects.html), 2023-2025, MagNetUS experimental runtime award 
 
 ## Selected Awards
-* 2015 – [Tsai Shih‑Tung Plasma Physics Award](http://www.zpyf.org.cn/zzjl/csddlzwlj/54.html), Awarded by Pei-Yuan Chou Funds
+* 2015 – [Tsai Shih‑Tung Plasma Physics Award](http://www.zpyf.org.cn/zzjl/csddlzwlj/54.html), Awarded by Chou Pei-yuan Foundation
 * 2013 – Wang Da-Heng Optics Award, Awarded by Chinese Optical Society
 * 2013 – China Important Optics Achievement Award, Awarded by Chinese Laser Press
 * 2013 – AMD High-Performance Computing Award, Awarded by AMD Inc. 
