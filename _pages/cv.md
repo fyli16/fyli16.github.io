@@ -18,7 +18,7 @@ redirect_from:
 * 09/2005 - 06/2009: B.S. in Applied Physics, Central South University, Changsha, China
 
 ## Recent Projects
-* PI, The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta, 2024-2027, DOE
+* PI, [The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta](https://science.osti.gov/-/media/funding/pdf/Awards-Lists/2024/Awards-List-Spreadsheet-DE-FOA-0003254.pdf), 2024-2027, DOE
 * PI, [Steps toward direct observation of the Alfvén wave parametric decay instability in a laboratory plasma](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=e5fd67b0-f5f4-4123-abf1-a0a6c267c479&rtc=24&PRoleId=10), 2023-2025, DOE
 * PI, [Scaling studies of seeded Alfvén wave parametric decay instability in the laboratory](https://hesto.smce.nasa.gov/portfolio/), 2023-2026, NASA
 * Co-I, [Modeling realistic chorus generation using large-scale particle-in-cell simulations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209155&HistoricalAwards=false), 2022-2026, NSF
