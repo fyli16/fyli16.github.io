@@ -37,7 +37,7 @@ redirect_from:
 1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, Physical Review Letters 110, 135002 (2013).
 1.  P. K. Singh#, F. Li#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. J. Rocca, R. E. Reinovsky, and S. Palaniyappan, Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection, Nature Communications 13, 54 (2022). #Equal contribution
 1.  F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, Particle resonances and trapping of direct laser acceleration in a laser-plasma channel, Physical Review Accelerators and Beams 24, 041301 (2021).
-1.  F. Li, X. Fu, and S. Dorfman, Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas, arXiv preprint arXiv:2403.08179, accepted to Physics of Plasmas (2024).
+1.  F. Li, X. Fu, and S. Dorfman, Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas, Physics of Plasmas 31, 082113 (2024). 
 1.  F. Li, X. Fu, and S. Dorfman, Parametric decay of Alfvénic wave packets in nonperiodic low-beta plasmas, The Astrophysical Journal 924, 33 (2022).
 1.  F. Li, X. Fu, and S. Dorfman, Hybrid simulation of Alfvén wave parametric decay instability in a laboratory relevant plasma, Physics of Plasmas 29, 092108 (2022).
 1.  F. Li, Z. Sheng, M. Chen, L.-L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation, Physical Review E 90, 043104 (2014).
