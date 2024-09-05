@@ -13,7 +13,7 @@ I am primarily interested in computational, theoretical and experimental modelin
 
 Check out our recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/). Feel free to get in touch!
 
-::Right now we have a postdoc position opening in computational study of nonlinear wave dynamics (Alfven, whistler) in magnetized plasmas. [Reach more info here](https://newmexicoconsortium.org/careers/)::
+\*Right now we have a postdoc position opening in computational study of nonlinear wave dynamics (Alfven, whistler) in magnetized plasmas. [Reach more info here](https://newmexicoconsortium.org/careers/)\*
 
 
 <!-- Supervised by Prof. [Zheng-Ming Sheng](https://www.physics.sjtu.edu.cn/en/people/1/zmSheng), I received my PhD in Plasma Physics from [Shanghai Jiao Tong University](https://llp.sjtu.edu.cn/En) in 2015, and then joined his group at [University of Strathclyde](https://silis.phys.strath.ac.uk/index.htm) as a postdoc. During my stay in the UK, I paid a six-week academic visit (in 2017) to [CEA Paris-Saclay](https://iramis.cea.fr/LIDYL/en/index.php). I moved to the US in 2019. Before joining NMC, I was a postdoc at [Los Alamos National Laboratory](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php) for two years.  -->
