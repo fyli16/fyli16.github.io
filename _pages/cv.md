@@ -28,9 +28,9 @@ redirect_from:
 * 2015 – [Tsai Shih‑Tung Plasma Physics Award](http://www.zpyf.org.cn/zzjl/csddlzwlj/54.html), Awarded by Chou Pei-yuan Foundation
 * 2013 – Wang Da-Heng Optics Award, Awarded by Chinese Optical Society
 * 2013 – China Important Optics Achievement Award, Awarded by Chinese Laser Press
-* 2013 – AMD High-Performance Computing Award, Awarded by AMD Inc. 
+* 2013 – AMD High-Performance Computing Award, Awarded by SJTU & AMD Inc. 
 * 2013 – National Scholarship, Awarded by Chinese Ministry of Education
-* 2011 – Excellent Teaching Assistant, Awarded by Shanghai Jiao Tong University
+* 2011 – Excellent Teaching Assistant, Awarded by SJTU
 
 
 ## Publications (that I led or made a significant contribution to)
