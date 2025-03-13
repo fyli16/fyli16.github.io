@@ -21,8 +21,8 @@ redirect_from:
 * PI, [The role of kinetic electrons in Alfven wave parametric instabilities at low plasma beta](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=c0307357-7dd7-45f0-8366-e9cf2dc10b76&rtc=24&PRoleId=10), 2024-2027, DOE
 * PI, [Steps toward direct observation of the Alfvén wave parametric decay instability in a laboratory plasma](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=e5fd67b0-f5f4-4123-abf1-a0a6c267c479&rtc=24&PRoleId=10), 2023-2025, DOE
 * PI, [Scaling studies of seeded Alfvén wave parametric decay instability in the laboratory](https://hesto.smce.nasa.gov/portfolio/), 2023-2026, NASA
-* Co-I, [Modeling realistic chorus generation using large-scale particle-in-cell simulations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209155&HistoricalAwards=false), 2022-2026, NSF
-* PI, [Scaling of seeded Alfven wave parametric decay](https://plasma.physics.ucla.edu/current-projects.html), 2023-2025, MagNetUS experimental runtime award 
+<!-- * Co-I, [Modeling realistic chorus generation using large-scale particle-in-cell simulations](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209155&HistoricalAwards=false), 2022-2026, NSF -->
+<!-- * PI, [Scaling of seeded Alfven wave parametric decay](https://plasma.physics.ucla.edu/current-projects.html), 2023-2025, MagNetUS experimental runtime award  -->
 
 ## Selected Awards
 * 2015 – [Tsai Shih‑Tung Plasma Physics Award](http://www.zpyf.org.cn/zzjl/csddlzwlj/54.html), Awarded by Chou Pei-yuan Foundation
@@ -30,7 +30,7 @@ redirect_from:
 * 2013 – China Important Optics Achievement Award, Awarded by Chinese Laser Press
 * 2013 – AMD High-Performance Computing Award, Awarded by SJTU & AMD Inc. 
 * 2013 – National Scholarship, Awarded by Chinese Ministry of Education
-* 2011 – Excellent Teaching Assistant, Awarded by SJTU
+<!-- * 2011 – Excellent Teaching Assistant, Awarded by SJTU -->
 
 
 ## Publications (that I led or made a significant contribution to)
