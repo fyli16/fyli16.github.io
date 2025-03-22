@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a research scientist at [New Mexico Consortium](https://newmexicoconsortium.org/). 
-I am primarily interested in [Plasma Physics](https://en.wikipedia.org/wiki/Plasma_%28physics%29) modeling, Data Science and Machine Learning. Applications of my work include plasma-based advanced particle accelerators and x-ray light sources, space science, and fusion energy, etc. 
+I am primarily interested in [Plasma Physics](https://en.wikipedia.org/wiki/Plasma_%28physics%29) modeling, Data Science and Machine Learning. Applications of my work include advanced particle accelerators and x-ray sources, space science, fusion energy, etc. 
 
 Check out our recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/). Feel free to get in touch!
 
@@ -25,8 +25,8 @@ Check out our recent [projects](https://fyli16.github.io/cv/) and [research](htt
 * F. Li, X. Fu, and S. Dorfman, [Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas](https://drive.google.com/file/d/1-fKsv396pD8m5WaU7dvYXtAO-whTGfix/view?usp=drive_link), Physics of Plasmas 31, 082113 (2024). 
 * F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), Physical Review Letters 110, 135002 (2013).  
 * P. Singh\#, F. Li\#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. Rocca, R. Reinovsky, and S. Palaniyappan, [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), Nature Communications 13, 54 (2022).  \#Equal contribution 
-* F. Li\*, P. K. Singh, S. Palaniyappan, and C. Huang\*, [Particle resonances and trapping of direct laser acceleration in a laser-plasma channel](https://drive.google.com/file/d/1KFGZTYbHff1pens0bXv-YAZ0NjhJTM5h/view?usp=drive_link), Physical Review Accelerators and Beams 24, 041301 (2021). 
-* F. Li, Z. Sheng, M. Chen, L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, [Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation](https://drive.google.com/file/d/1aIZc3XbUy6T_ovCbviBMdiduXa0V8Lb9/view?usp=drive_link), Physical Review E 90, 043104 (2014). 
+* F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, [Particle resonances and trapping of direct laser acceleration in a laser-plasma channel](https://drive.google.com/file/d/1KFGZTYbHff1pens0bXv-YAZ0NjhJTM5h/view?usp=drive_link), Physical Review Accelerators and Beams 24, 041301 (2021). 
+<!-- * F. Li, Z. Sheng, M. Chen, L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, [Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation](https://drive.google.com/file/d/1aIZc3XbUy6T_ovCbviBMdiduXa0V8Lb9/view?usp=drive_link), Physical Review E 90, 043104 (2014).  -->
 
 
 <!-- [1] F. Y. Li, Z. M. Sheng, et al., Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, [Phys. Rev. Lett., 110, 135002](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.135002) (2013).
