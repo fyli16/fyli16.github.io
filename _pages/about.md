@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I am currently a research scientist at [New Mexico Consortium](https://newmexicoconsortium.org/). 
-I am primarily interested in [Plasma Physics](https://en.wikipedia.org/wiki/Plasma_%28physics%29) modeling, Data Science and Machine Learning. Applications of my work include advanced particle accelerators, space science, fusion energy, etc. 
+I am primarily interested in [Plasma Physics](https://en.wikipedia.org/wiki/Plasma_%28physics%29), Data Science, Machine Learning and Artificial Intelligence. Results of my work can be applied to both scientific frontiers (advanced particle accelerators, space science, fusion energy, etc) and industries (medical applications, radiography, process optimization, risk management, search/recommendations, etc). 
 
-Check out our recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/). Feel free to get in touch!
+Check out my recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/). Feel free to get in touch!
 
 <!-- ## (updated Sept. 5, 2024) We invite applications for a postdoc position in computational study of nonlinear wave dynamics (Alfven, whistler) in magnetized plasmas. [Read more info here](https://newmexicoconsortium.org/careers/)  -->
 

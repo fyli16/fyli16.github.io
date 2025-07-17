@@ -22,7 +22,7 @@ The research has been supported by DOE (grants DE-SC0023893, DE-SC0025443) and (
 
 [3] F. Li, X. Fu, and S. Dorfman, Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas, Physics of Plasmas 31, 082113 (2024).
 
-[4] F. Li, S. Dorfman, and X. Fu, A novel scheme for measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves, Under review at PRL.
+[4] F. Li, S. Dorfman, and X. Fu, A novel scheme for measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves, submitted. 
 
 [5] F. Li, Excitation and dynamics of Alfven wave parametric decay with relevance to a linear device, in prep. 
 
