@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a research scientist at New Mexico Consortium. 
-I am primarily interested in artificial intelligence, large language models, deep learning, machine learning, data science, statistical modeling, and plasma science & technologies. I am excited to see their applications in industry (forecasting, process optimization, insight extraction, risk management, search, recommendations, etc.) and frontier science (compact particle accelerators & light sources, space science, fusion energy, etc.).  
+I am primarily interested in artificial intelligence, large language models, deep learning, machine learning, data science, statistical modeling, and plasma science & technologies, with applications in both industry (forecasting, process optimization, insight extraction, risk management, search, recommendations, etc.) and frontier science (compact particle accelerators & light sources, space science, fusion energy, etc.).  
 
 Check out my recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/) related to plasma science. Stay tuned for more updates on my AI projects. Feel free to get in touch!
 
