@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at New Mexico Consortium. 
-I am primarily interested in artificial intelligence, large language models, deep learning, machine learning, data science, and plasma science & technologies, with applications in both industry (forecasting, process optimization, risk management, search, recommendations, etc.) and frontier science (compact particle accelerators & light sources, space science, fusion energy, etc.).  
+I am currently a research scientist at New Mexico Consortium and previously a postdoc at Los Alamos National Lab.
 
-Check out my recent [projects](https://fyli16.github.io/cv/) and [research](https://fyli16.github.io/research/) related to plasma science. 
+I am primarily interested in artificial intelligence, large language models, deep learning, machine learning, data science, and plasma science & technologies, with applications in both industry (search, recommendations, forecasting, process optimization, risk management, etc.) and frontier science (compact particle accelerators, space science, fusion energy, etc.).  
 
-I've also developed a few ML/Deep Learning/LLM-based applications:
+I've developed a few ML/Deep Learning/LLM-based applications:
 
 * [A RAG-based chatbot for tax filing using GPT, Pinecone, and Streamlit](https://github.com/fyli16/tax_pro_chatbot)
 * [A Deep Learning model for predicting proton beam energy for therapeautic use](https://github.com/fyli16/Deploy_PTP_as_FlaskApp_on_GCP)
 * [A XGBoost model for cardiac risk identification](https://github.com/fyli16/Deploy_HAD_as_FlaskApp_on_GCP)
 
-*There is more coming soon!*
+*More AI projects coming soon!*
 
 
 <!-- ## (updated Sept. 5, 2024) We invite applications for a postdoc position in computational study of nonlinear wave dynamics (Alfven, whistler) in magnetized plasmas. [Read more info here](https://newmexicoconsortium.org/careers/)  -->
@@ -30,7 +29,14 @@ I've also developed a few ML/Deep Learning/LLM-based applications:
 <!-- Notably, I have investigated several schemes for plasma-based accelerators and nonlinear plasma optics, including a first proposal for generating attosecond electron and radiation pulses from [laser wakefield acceleration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.135002), a comprehensive analysis on [direct laser acceleration](https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.24.041301), and a viable scheme for [vacuum laser acceleration](https://www.nature.com/articles/s41467-021-27691-w), etc. I co-developed the [CoSyR](https://github.com/lanl/cosyr) code, which allows for self-consistent modeling of beam dynamics in synchrotrons. Recently, I have extended my work to [space plasmas](https://en.wikipedia.org/wiki/Space_physics), where I further develop a [hybrid code](https://github.com/fyli16/h3d) for modeling [laboratory plasmas](https://plasma.physics.ucla.edu/).  -->
 <!-- Check out my [Google Scholar](https://scholar.google.com/citations?user=8jVlsdoAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Feiyu-Li-4) for more about my research.  -->
 
-## Selected publications
+<!-- ## Selected publications -->
+
+I've led several funded [projects](https://fyli16.github.io/cv/) related to plasma science. 
+
+I've published 40+ journal papers with 700+ citations. 
+
+Some selected work:
+
 * F. Li, S. Dorfman, and X. Fu, [Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* 112, 025206 (2025).
 <!-- * F. Li, X. Fu, and S. Dorfman, [Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas](https://drive.google.com/file/d/1-fKsv396pD8m5WaU7dvYXtAO-whTGfix/view?usp=drive_link), *Physics of Plasmas* 31, 082113 (2024).  -->
 * F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), *Physical Review Letters* 110, 135002 (2013).  
