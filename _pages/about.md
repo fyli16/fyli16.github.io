@@ -35,8 +35,9 @@ I've led several funded [projects](https://fyli16.github.io/cv/) related to plas
 
 I've published 40+ journal papers with 700+ citations. 
 
-Some selected lead-author work:
-[Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* (2025).
+Some selected *lead-author* work:
+
+* [Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* (2025).
 * [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), *Nature Communications* (2022).
 * [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), *Physical Review Letters* (2013).
 
