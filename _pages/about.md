@@ -16,7 +16,7 @@ I've developed a few ML/Deep Learning/LLM-based applications:
 
 * [A RAG-based chatbot for tax filing using GPT, Pinecone, and Streamlit](https://github.com/fyli16/tax_pro_chatbot)
 * [A Deep Learning model for predicting proton beam energy for therapeautic use](https://github.com/fyli16/Deploy_PTP_as_FlaskApp_on_GCP)
-* [A XGBoost model for cardiac risk identification](https://github.com/fyli16/Deploy_HAD_as_FlaskApp_on_GCP)
+* [An XGBoost model for cardiac risk identification](https://github.com/fyli16/Deploy_HAD_as_FlaskApp_on_GCP)
 
 *More AI projects coming soon!*
 
@@ -35,12 +35,15 @@ I've led several funded [projects](https://fyli16.github.io/cv/) related to plas
 
 I've published 40+ journal papers with 700+ citations. 
 
-Some selected work:
+Some selected lead-author work:
+[Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* (2025).
+* [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), *Nature Communications* (2022).
+* [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), *Physical Review Letters* (2013).
 
-* F. Li, S. Dorfman, and X. Fu, [Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* 112, 025206 (2025).
+<!-- * F. Li, S. Dorfman, and X. Fu, [Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* 112, 025206 (2025). -->
 <!-- * F. Li, X. Fu, and S. Dorfman, [Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas](https://drive.google.com/file/d/1-fKsv396pD8m5WaU7dvYXtAO-whTGfix/view?usp=drive_link), *Physics of Plasmas* 31, 082113 (2024).  -->
-* F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), *Physical Review Letters* 110, 135002 (2013).  
-* P. Singh\#, F. Li\# (*equal contribution*), C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. Rocca, R. Reinovsky, and S. Palaniyappan, [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), *Nature Communications* 13, 54 (2022). 
+<!-- * F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), *Physical Review Letters* 110, 135002 (2013).   -->
+<!-- * P. Singh\#, F. Li\# (*equal contribution*), C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. Rocca, R. Reinovsky, and S. Palaniyappan, [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), *Nature Communications* 13, 54 (2022).  -->
 <!-- * F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, [Particle resonances and trapping of direct laser acceleration in a laser-plasma channel](https://drive.google.com/file/d/1KFGZTYbHff1pens0bXv-YAZ0NjhJTM5h/view?usp=drive_link), *Physical Review Accelerators and Beams* 24, 041301 (2021).  -->
 <!-- * F. Li, Z. Sheng, M. Chen, L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, [Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation](https://drive.google.com/file/d/1aIZc3XbUy6T_ovCbviBMdiduXa0V8Lb9/view?usp=drive_link), Physical Review E 90, 043104 (2014).  -->
 
