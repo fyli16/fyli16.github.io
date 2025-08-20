@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at New Mexico Consortium and previously a postdoc at Los Alamos National Lab.
+I am currently a research scientist at New Mexico Consortium and was previously a postdoc at Los Alamos National Lab.
 
-I am primarily interested in artificial intelligence, large language models, deep learning, machine learning, data science, and plasma science & technologies, with applications in both industry (search, recommendations, forecasting, process optimization, risk management, etc.) and frontier science (compact particle accelerators, space science, fusion energy, etc.).  
+I am primarily interested in artificial intelligence, large language models, deep learning, machine learning, data science, and plasma technologies, with applications in both industry (search, recommendations, forecasting, process optimization, risk management, etc.) and frontier science (compact particle accelerators, space science, fusion energy, etc.).  
 
-I've developed a few ML/Deep Learning/LLM-based applications:
+I've developed several ML/Deep Learning/LLM-based applications:
 
 * [A RAG-based chatbot for tax filing using GPT, Pinecone, and Streamlit](https://github.com/fyli16/tax_pro_chatbot)
 * [A Deep Learning model for predicting proton beam energy for therapeautic use](https://github.com/fyli16/Deploy_PTP_as_FlaskApp_on_GCP)
@@ -31,15 +31,17 @@ I've developed a few ML/Deep Learning/LLM-based applications:
 
 <!-- ## Selected publications -->
 
-I've led several funded [projects](https://fyli16.github.io/cv/) related to plasma science. 
+I've led several plasma-science [projects](https://fyli16.github.io/cv/) funded by *NASA and Department of Energy*
 
-I've published 40+ journal papers with 700+ citations. 
+I've published 40+ journal papers with ~800 citations. 
 
 Some selected *lead-author* work:
 
 * [Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* (2025).
 * [Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection](https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link), *Nature Communications* (2022).
 * [Dense attosecond electron sheets from laser wakefields using an up-ramp density transition](https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link), *Physical Review Letters* (2013).
+
+*Feel free to get in touch!*
 
 <!-- * F. Li, S. Dorfman, and X. Fu, [Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations](https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link), *Physical Review E* 112, 025206 (2025). -->
 <!-- * F. Li, X. Fu, and S. Dorfman, [Effects of wave damping and finite perpendicular scale on three-dimensional Alfven wave parametric decay in low-beta plasmas](https://drive.google.com/file/d/1-fKsv396pD8m5WaU7dvYXtAO-whTGfix/view?usp=drive_link), *Physics of Plasmas* 31, 082113 (2024).  -->
