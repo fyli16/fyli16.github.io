@@ -182,7 +182,9 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  .fa {
+  .fa,
+  .fas,
+  .fab {
     color: #000;
   }
 
@@ -239,7 +241,8 @@ body:hover .visually-hidden button {
   }
 
   .fa-googlescholar,
-  .fa-googlescholar-square {
+  .fa-googlescholar-square,
+  .fa-graduation-cap {
     color: $googlescholar-color;
   }
 
@@ -249,12 +252,14 @@ body:hover .visually-hidden button {
   }
 
   .fa-email,
-  .fa-email-square {
+  .fa-email-square,
+  .fa-envelope {
     color: $email-color;
   }
 
   .fa-location,
-  .fa-location-square {
+  .fa-location-square,
+  .fa-map-marker {
     color: $location-color;
   }
 
@@ -306,6 +311,18 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+  }
+
+  .fa-link {
+    color: $link-color;
+  }
+
+  .fa-key {
+    color: $primary-color;
+  }
+
+  .fa-wikipedia-w {
+    color: $primary-color;
   }
 }
 
