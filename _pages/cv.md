@@ -38,6 +38,7 @@ redirect_from:
 *Publications* 
 
 * see my [Google Scholar](https://scholar.google.com/citations?user=8jVlsdoAAAAJ&hl=en) for full list
+
 <!-- 1.  F. Li, Z. Sheng, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, W. Lu, and J. Zhang, Dense attosecond electron sheets from laser wakefields using an up-ramp density transition, Physical Review Letters 110, 135002 (2013).
 1.  P. K. Singh#, F. Li#, C. Huang, A. Moreau, R. Hollinger, A. Junghans, A. Favalli, C. Calvi, S. Wang, Y. Wang, H. Song, J. J. Rocca, R. E. Reinovsky, and S. Palaniyappan, Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection, Nature Communications 13, 54 (2022). #Equal contribution
 1.  F. Li, P. K. Singh, S. Palaniyappan, and C. Huang, Particle resonances and trapping of direct laser acceleration in a laser-plasma channel, Physical Review Accelerators and Beams 24, 041301 (2021).
@@ -47,6 +48,7 @@ redirect_from:
 1.  F. Li, Z. Sheng, M. Chen, L.-L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, Radially polarized, half-cycle, attosecond pulses from laser wakefields through coherent synchrotronlike radiation, Physical Review E 90, 043104 (2014).
 1.  F. Li, Z. Sheng, M. Chen, H.-C. Wu, Y. Liu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, Coherent kilo-electron-volt backscattering from plasma-wave boosted relativistic electron mirrors, Applied Physics Letters 105, 161102 (2014).
 1.  F. Li, C. Huang, R. V. Garimella, T. J. T. Kwan, and B. E. Carlsten, Validation of a novel method for the calculation of near-field synchrotron radiation, Proceedings of 10th International Particle Accelerator Conference, Melbourne, Australia, 397-399 (2019). -->
+
 <!-- 1. F. Li, Z. Sheng, M. Chen, L.-L. Yu, J. Meyer-ter-Vehn, W. B. Mori, and J. Zhang, Attosecond electron sheets and attosecond light pulses from relativistic laser wakefields in underdense plasmas, AIP Conference Proceedings, 1777, 040015 (2016). -->
 <!-- 1. C. Huang, F. Li, H. N. Rakotoarivelo, B. Shen, J. Domine, B. Carlsten, Gary Dilts, R.Garimella, T. Kwan, and R. Robey, CoSyR: a novel beam dynamics code for the modeling of synchrotron radiation effects, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1034, 166808 (2022). -->
 <!-- 1. T. Wilson, F. Li, S.-M. Weng, M. Chen, P. McKenna, and Z. Sheng, Laser pulse compression towards collapse and beyond in plasma, Journal of Physics B: Atomic, Molecular & Optical Physics, 52, 055403 (2019). -->
