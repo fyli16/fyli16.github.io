@@ -1,0 +1,93 @@
+{% if site.external_visits.enabled %}
+<div class="external-visits-widget">
+  <h4>External Link Visits</h4>
+  <div class="widget-stats">
+    <div class="widget-stat">
+      <span class="stat-number" id="widget-total-visits">-</span>
+      <span class="stat-label">Total</span>
+    </div>
+    <div class="widget-stat">
+      <span class="stat-number" id="widget-today-visits">-</span>
+      <span class="stat-label">Today</span>
+    </div>
+  </div>
+  <div class="widget-top-domain">
+    <small>Most visited: <span id="widget-top-domain">-</span></small>
+  </div>
+</div>
+
+<style>
+.external-visits-widget {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.external-visits-widget h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+  color: #495057;
+}
+
+.widget-stats {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.widget-stat {
+  text-align: center;
+}
+
+.widget-stat .stat-number {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.widget-stat .stat-label {
+  font-size: 0.8rem;
+  color: #6c757d;
+}
+
+.widget-top-domain {
+  font-size: 0.8rem;
+  color: #6c757d;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  function updateWidget() {
+    if (typeof ExternalVisitTracker === 'undefined') {
+      return;
+    }
+
+    const stats = ExternalVisitTracker.getStats();
+    
+    // Update widget stats
+    document.getElementById('widget-total-visits').textContent = stats.total;
+    
+    const today = new Date().toISOString().split('T')[0];
+    document.getElementById('widget-today-visits').textContent = stats.byDate[today] || 0;
+    
+    // Find top domain
+    const topDomain = Object.entries(stats.byDomain)
+      .sort(([,a], [,b]) => b - a)[0];
+    
+    if (topDomain) {
+      document.getElementById('widget-top-domain').textContent = topDomain[0];
+    }
+  }
+
+  // Update widget
+  updateWidget();
+  
+  // Update every 30 seconds
+  setInterval(updateWidget, 30000);
+});
+</script>
+{% endif %}

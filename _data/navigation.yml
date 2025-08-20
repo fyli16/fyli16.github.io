@@ -21,5 +21,8 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
     
+  # - title: "External Visits"
+  #   url: /external-visits/
+    
   # - title: "Guide"
   #   url: /markdown/

@@ -77,6 +77,14 @@ analytics:
   google:
     tracking_id          :
 
+# External Visit Tracking
+external_visits:
+  enabled                : true
+  track_social_links     : true
+  track_all_external     : false
+  analytics_integration  : true
+  debug                  : false
+
 
 # Site Author
 author:
