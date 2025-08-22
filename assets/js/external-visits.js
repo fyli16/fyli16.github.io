@@ -17,9 +17,9 @@
       console.log('External Visit Tracker initialized');
     }
 
-    // Load existing data
-    const visits = loadVisitData();
-    
+    // Track arrival from external referrer
+    trackReferrerIfExternal();
+
     // Track external link clicks
     document.addEventListener('click', function(e) {
       const link = e.target.closest('a');
@@ -45,6 +45,20 @@
     window.trackExternalVisit = function(url, label) {
       trackVisit(url, label);
     };
+  }
+
+  // Track external referrer on page load
+  function trackReferrerIfExternal() {
+    try {
+      const referrer = document.referrer;
+      if (!referrer) return;
+      if (isExternalLink(referrer)) {
+        // Save a visit against the referrer domain
+        trackVisit(referrer, 'Referrer');
+      }
+    } catch (e) {
+      // ignore
+    }
   }
 
   // Check if link is external

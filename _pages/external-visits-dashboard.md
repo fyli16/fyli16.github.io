@@ -5,8 +5,6 @@ author_profile: false
 layout: single
 ---
 
-# External Visits Dashboard
-
 This dashboard shows statistics for external link visits from your site.
 
 <div id="external-visits-dashboard">
