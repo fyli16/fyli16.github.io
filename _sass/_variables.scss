@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 15;
+$doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -14,8 +14,8 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+$monospace                  : "SF Mono", Monaco, Inconsolata, "Roboto Mono", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -44,27 +44,35 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
+   Colors - Modern AI/ML/DS Theme
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+// Modern gray palette
+$gray                       : #6b7280;
+$dark-gray                  : #374151;
+$darker-gray                : #1f2937;
+$light-gray                 : #9ca3af;
+$lighter-gray               : #f3f4f6;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+// Modern color palette
+$body-color                 : #ffffff;
+$background-color           : #ffffff;
+$code-background-color      : #f8fafc;
+$code-background-color-dark : #1e293b;
+$text-color                 : #1f2937;
+$border-color               : #e5e7eb;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+// Primary colors - AI/ML/DS focused
+$primary-color              : #3b82f6;  // Modern blue
+$success-color              : #10b981;  // Modern green
+$warning-color              : #f59e0b;  // Modern amber
+$danger-color               : #ef4444;  // Modern red
+$info-color                 : #06b6d4;  // Modern cyan
+
+// AI/ML accent colors
+$ai-purple                  : #8b5cf6;  // Purple for AI
+$ml-blue                    : #3b82f6;  // Blue for ML
+$ds-teal                    : #14b8a6;  // Teal for Data Science
 
 /* brands */
 $behance-color              : #1769FF;
@@ -93,11 +101,9 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-
-
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color                 : $primary-color;
+$link-color-hover           : darken($primary-color, 15%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);

@@ -1,14 +1,110 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+<div class="ai-pattern" style="padding: 2rem; border-radius: 12px; margin-bottom: 2rem;">
+  <div class="section-header">
+    <h1 class="gradient-text">Research Areas</h1>
+    <p style="font-size: 1.1rem; color: #6b7280; margin-top: 0.5rem;">Bridging AI/ML with cutting-edge plasma physics and fusion energy research</p>
+  </div>
+</div>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 2rem;">
+  {% for post in site.research %}
+    <div class="card animate-card">
+      <div class="card-header">
+        <h3>
+          {% if post.title contains "Alfvén" %}
+            <i class="fas fa-wave-square"></i>
+          {% elsif post.title contains "Vacuum" %}
+            <i class="fas fa-atom"></i>
+          {% elsif post.title contains "Laser" %}
+            <i class="fas fa-bolt"></i>
+          {% elsif post.title contains "Plasma" %}
+            <i class="fas fa-fire"></i>
+          {% else %}
+            <i class="fas fa-flask"></i>
+          {% endif %}
+          {{ post.title }}
+        </h3>
+        {% if post.excerpt %}
+          <div style="margin-top: 0.5rem;">
+            {{ post.excerpt }}
+          </div>
+        {% endif %}
+      </div>
+      <div class="card-body">
+        <div style="margin-bottom: 1rem;">
+          {% if post.title contains "Alfvén" %}
+            <span class="badge badge-ai">Wave Physics</span>
+            <span class="badge badge-ml">Simulation</span>
+          {% elsif post.title contains "Vacuum" %}
+            <span class="badge badge-ai">Particle Acceleration</span>
+            <span class="badge badge-ml">Laser Physics</span>
+          {% elsif post.title contains "Laser" %}
+            <span class="badge badge-ai">Optics</span>
+            <span class="badge badge-ml">Plasma Interaction</span>
+          {% elsif post.title contains "Plasma" %}
+            <span class="badge badge-ai">Plasma Physics</span>
+            <span class="badge badge-ml">Fusion Energy</span>
+          {% else %}
+            <span class="badge badge-research">Research</span>
+          {% endif %}
+        </div>
+        
+        <div style="margin-bottom: 1rem;">
+          {{ post.content | strip_html | truncatewords: 30 }}
+        </div>
+        
+        <a href="{{ post.url }}" class="btn btn-modern btn-outline">
+          <i class="fas fa-arrow-right"></i> Read More
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="card animate-card" style="text-align: center; background: linear-gradient(135deg, rgba(139, 92, 246, 0.05) 0%, rgba(59, 130, 246, 0.05) 100%);">
+  <div class="card-body">
+    <h3 style="color: var(--ai-purple); margin-bottom: 1rem;">
+      <i class="fas fa-microscope"></i> Research Highlights
+    </h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+      <div style="text-align: center; padding: 1rem;">
+        <i class="fas fa-paper-plane" style="font-size: 2rem; color: var(--ai-purple); margin-bottom: 0.5rem;"></i>
+        <div style="font-weight: bold; color: var(--ai-purple);">40+</div>
+        <div style="color: #6b7280; font-size: 0.9rem;">Publications</div>
+      </div>
+      <div style="text-align: center; padding: 1rem;">
+        <i class="fas fa-citation" style="font-size: 2rem; color: var(--ml-blue); margin-bottom: 0.5rem;"></i>
+        <div style="font-weight: bold; color: var(--ml-blue);">~800</div>
+        <div style="color: #6b7280; font-size: 0.9rem;">Citations</div>
+      </div>
+      <div style="text-align: center; padding: 1rem;">
+        <i class="fas fa-grant" style="font-size: 2rem; color: var(--ds-teal); margin-bottom: 0.5rem;"></i>
+        <div style="font-weight: bold; color: var(--ds-teal);">NASA/DOE</div>
+        <div style="color: #6b7280; font-size: 0.9rem;">Funded Research</div>
+      </div>
+    </div>
+    <p style="margin-bottom: 1.5rem;">
+      My research spans the intersection of AI/ML and plasma physics, with applications in fusion energy, 
+      space science, and particle acceleration. I'm particularly interested in developing computational 
+      methods that leverage machine learning for plasma diagnostics and control.
+    </p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="/publications/" class="btn btn-modern btn-ai">
+        <i class="fas fa-book"></i> View Publications
+      </a>
+      <a href="/talks/" class="btn btn-modern btn-ml">
+        <i class="fas fa-presentation"></i> Talks & Presentations
+      </a>
+      <a href="mailto:lif02501@gmail.com" class="btn btn-modern btn-ds">
+        <i class="fas fa-envelope"></i> Collaborate
+      </a>
+    </div>
+  </div>
+</div>
 
