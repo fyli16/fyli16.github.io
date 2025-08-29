@@ -84,7 +84,7 @@ author_profile: true
     </h3>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
       <div style="text-align: center; padding: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold; color: var(--ai-purple);">{{ site.publications.size }}</div>
+        <div style="font-size: 2rem; font-weight: bold; color: var(--ai-purple);">40+</div>
         <div style="color: #6b7280; font-size: 0.9rem;">Publications</div>
       </div>
       <div style="text-align: center; padding: 1rem;">
