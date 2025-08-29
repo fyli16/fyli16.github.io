@@ -8,7 +8,7 @@ author_profile: true
 <div class="ai-pattern" style="padding: 2rem; border-radius: 12px; margin-bottom: 2rem;">
   <div class="section-header">
     <h1 class="gradient-text">Publications</h1>
-    <p style="font-size: 1.1rem; color: #6b7280; margin-top: 0.5rem;">Peer-reviewed journal papers and research publications</p>
+    <p style="font-size: 1.1rem; color: #6b7280; margin-top: 0.5rem;">Selected peer-reviewed journal papers and research publications</p>
   </div>
 </div>
 
