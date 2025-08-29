@@ -57,7 +57,7 @@ redirect_from:
     <h3><i class="fas fa-code"></i> AI/ML Projects</h3>
   </div>
   <div class="card-body">
-    <p>I've developed several cutting-edge ML/Deep Learning/LLM-based applications:</p>
+    <!-- <p>I've developed several cutting-edge ML/Deep Learning/LLM-based applications:</p> -->
     
     <div class="gradient-border" style="padding: 1.5rem; margin: 1rem 0;">
       <h4><i class="fas fa-robot"></i> RAG-based Tax Filing Chatbot</h4>
@@ -115,14 +115,15 @@ redirect_from:
 
 <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
-    <h3><i class="fas fa-star"></i> Selected Publications</h3>
+    <h3><i class="fas fa-star"></i> Selected Lead-Author Publications</h3>
   </div>
   <div class="card-body">
-    <p>Some selected <em>lead-author</em> work:</p>
+    <!-- <p>Some selected <em>lead-author</em> work:</p> -->
     
     <div class="gradient-border" style="padding: 1.5rem; margin: 1rem 0;">
-      <h4><i class="fas fa-wave-square"></i> Alfvén Wave Parametric Decay Instability</h4>
-      <p><strong>F. Li, S. Dorfman, and X. Fu</strong><br>
+      <!-- <h4><i class="fas fa-wave-square"></i> Alfvén Wave Parametric Decay Instability</h4> -->
+      <p>
+      <!-- <strong>F. Li, S. Dorfman, and X. Fu</strong><br> -->
       "Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations"<br>
       <em>Physical Review E</em> (2025)</p>
       <a href="https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link" class="btn btn-modern btn-ai" target="_blank">
@@ -131,8 +132,9 @@ redirect_from:
     </div>
 
     <div class="gradient-border" style="padding: 1.5rem; margin: 1rem 0;">
-      <h4><i class="fas fa-atom"></i> Vacuum Laser Acceleration</h4>
-      <p><strong>P. Singh#, F. Li# (equal first-author), et al.</strong><br>
+      <!-- <h4><i class="fas fa-atom"></i> Vacuum Laser Acceleration</h4> -->
+      <p>
+      <!-- <strong>P. Singh#, F. Li# (equal first-author), et al.</strong><br> -->
       "Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection"<br>
       <em>Nature Communications</em> (2022)</p>
       <a href="https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link" class="btn btn-modern btn-ai" target="_blank">
@@ -141,8 +143,9 @@ redirect_from:
     </div>
     
     <div class="gradient-border" style="padding: 1.5rem; margin: 1rem 0;">
-      <h4><i class="fas fa-bolt"></i> Dense Attosecond Electron Sheets</h4>
-      <p><strong>F. Li, Z. Sheng, et al.</strong><br>
+      <!-- <h4><i class="fas fa-bolt"></i> Dense Attosecond Electron Sheets</h4> -->
+      <p>
+      <!-- <strong>F. Li, Z. Sheng, et al.</strong><br> -->
       "Dense attosecond electron sheets from laser wakefields using an up-ramp density transition"<br>
       <em>Physical Review Letters</em> (2013)</p>
       <a href="https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link" class="btn btn-modern btn-ai" target="_blank">
