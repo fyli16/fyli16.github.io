@@ -64,7 +64,7 @@ author_profile: true
         
         <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
           {% if post.paperurl %}
-            <a href="{{ post.paperurl }}" class="btn btn-modern btn-outline" target="_blank">
+            <a href="{{ post.paperurl }}" class="btn btn-modern btn-ai" target="_blank">
               <i class="fas fa-file-pdf"></i> Read Paper
             </a>
           {% endif %}
