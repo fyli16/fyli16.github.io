@@ -46,7 +46,6 @@ redirect_from:
       <ul class="list-modern">
         <li>Compact Particle Accelerators</li>
         <li>Space Science & Astrophysics</li>
-        <li>Fusion Energy Research</li>
       </ul>
     </div>
   </div>
@@ -124,8 +123,7 @@ redirect_from:
       <!-- <h4><i class="fas fa-wave-square"></i> Alfvén Wave Parametric Decay Instability</h4> -->
       <p>
       <!-- <strong>F. Li, S. Dorfman, and X. Fu</strong><br> -->
-      "Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations"<br>
-      <em>Physical Review E</em> (2025)</p>
+      "Measuring the growth of Alfvén wave parametric decay instability using counter-propagating waves: Theory and simulations" <em>Physical Review E</em> (2025)</p>
       <a href="https://drive.google.com/file/d/1KGoC5ZpGpq759eFStNTm9O64nrjh8Xd9/view?usp=drive_link" class="btn btn-modern btn-ai" target="_blank">
         <i class="fas fa-file-pdf"></i> Read Paper
       </a>
@@ -135,8 +133,7 @@ redirect_from:
       <!-- <h4><i class="fas fa-atom"></i> Vacuum Laser Acceleration</h4> -->
       <p>
       <!-- <strong>P. Singh#, F. Li# (equal first-author), et al.</strong><br> -->
-      "Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection"<br>
-      <em>Nature Communications</em> (2022)</p>
+      "Vacuum laser acceleration of super-ponderomotive electrons using relativistic transparency injection" <em>Nature Communications</em> (2022)</p>
       <a href="https://drive.google.com/file/d/1DHl6WVoQ2BnTH2a5JCa3Cv6gsziU0XIw/view?usp=drive_link" class="btn btn-modern btn-ai" target="_blank">
         <i class="fas fa-file-pdf"></i> Read Paper
       </a>
@@ -146,8 +143,7 @@ redirect_from:
       <!-- <h4><i class="fas fa-bolt"></i> Dense Attosecond Electron Sheets</h4> -->
       <p>
       <!-- <strong>F. Li, Z. Sheng, et al.</strong><br> -->
-      "Dense attosecond electron sheets from laser wakefields using an up-ramp density transition"<br>
-      <em>Physical Review Letters</em> (2013)</p>
+      "Dense attosecond electron sheets from laser wakefields using an up-ramp density transition" <em>Physical Review Letters</em> (2013)</p>
       <a href="https://drive.google.com/file/d/1ED6XBNJMT0joXAUs49AuiEj28bI5C_Vd/view?usp=drive_link" class="btn btn-modern btn-ai" target="_blank">
         <i class="fas fa-file-pdf"></i> Read Paper
       </a>

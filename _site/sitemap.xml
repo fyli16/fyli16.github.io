@@ -109,10 +109,6 @@
 <lastmod>2019-09-03T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/talks/2019-10-poster</loc>
-<lastmod>2019-10-15T00:00:00-07:00</lastmod>
-</url>
-<url>
 <loc>http://0.0.0.0:4000/talks/2020-11-talk</loc>
 <lastmod>2020-11-10T00:00:00-08:00</lastmod>
 </url>
@@ -135,6 +131,14 @@
 <url>
 <loc>http://0.0.0.0:4000/talks/2022-01-talk</loc>
 <lastmod>2022-01-11T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/talks/2022-03-talk</loc>
+<lastmod>2022-03-09T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/talks/2022-05-talk</loc>
+<lastmod>2022-05-22T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/teaching/2014-spring-teaching-1</loc>
