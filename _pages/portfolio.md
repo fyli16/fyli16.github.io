@@ -1,5 +1,5 @@
 ---
-title: "AI/ML Projects Portfolio"
+# title: "AI/ML Projects Portfolio"
 permalink: /portfolio/
 author_profile: true
 layout: single
