@@ -33,7 +33,7 @@ redirect_from:
 
 <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
-    <h3><i class="fas fa-flask"></i> Recent Projects with Me as Lead PI</h3>
+    <h3><i class="fas fa-flask"></i> Selected Projects</h3>
   </div>
   <div class="card-body">
     <ul class="list-modern">
@@ -65,7 +65,7 @@ redirect_from:
       <li><strong>2013:</strong> Wang Da-Heng Optics Award, <em>by Chinese Optical Society</em></li>
       <li><strong>2013:</strong> China Important Optics Achievement Award, <em>by Chinese Laser Press</em></li>
       <li><strong>2013:</strong> AMD High-Performance Computing Award, <em>by SJTU & AMD Inc</em></li>
-      <li><strong>2013:</strong> National Scholarship, <em>by Chinese Ministry of Education</em></li>
+      <!-- <li><strong>2013:</strong> National Scholarship, <em>by Chinese Ministry of Education</em></li> -->
     </ul>
     <!-- * 2011 – Excellent Teaching Assistant, Awarded by SJTU -->
   </div>
@@ -76,7 +76,7 @@ redirect_from:
     <h3><i class="fas fa-book"></i> Publications</h3>
   </div>
   <div class="card-body">
-    <p>See my comprehensive publication list on <a href="https://scholar.google.com/citations?user=8jVlsdoAAAAJ&hl=en" class="focus-modern">Google Scholar</a> for detailed information about my research contributions.</p>
+    <p>See full list at <a href="https://scholar.google.com/citations?user=8jVlsdoAAAAJ&hl=en" class="focus-modern">Google Scholar</a> for more details about my research contributions.</p>
     
     <div style="text-align: center; margin-top: 1.5rem;">
       <a href="https://scholar.google.com/citations?user=8jVlsdoAAAAJ&hl=en" class="btn btn-modern btn-ai" target="_blank">
