@@ -23,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><a href="https://www.google.com/maps/search/{{ author.location | replace: ' ', '+' }}"><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
