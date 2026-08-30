@@ -11,7 +11,7 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 0.75em;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -41,7 +41,7 @@
   p, li {
     font-family: $sans-serif;
     font-size: $type-size-5;
-    line-height: 1.5;
+    line-height: 1.35;
   }
 
   img {
@@ -50,7 +50,7 @@
 }
 
 .sidebar__right {
-  margin-bottom: 1em;
+  margin-bottom: 0.75em;
 
   @include breakpoint($large) {
     position: relative;
@@ -72,7 +72,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 60px;
+  width: 52px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -83,7 +83,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 170px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -96,9 +96,9 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
-  line-height: 1;
+  padding-left: 10px;
+  padding-right: 12px;
+  line-height: 1.1;
 
   @include breakpoint($large) {
     display: block;
@@ -112,8 +112,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 6px;
   }
 }
 .sidebar .author__name {
@@ -123,11 +123,12 @@
 
 .author__bio {
   margin: 0;
-  font-size: 0.9em;
+  font-size: 0.82em;
+  line-height: 1.4;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 6px;
+    margin-bottom: 12px;
   }
 }
 
@@ -163,8 +164,8 @@
   display: none;
   position: absolute;
   right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  margin-top: 10px;
+  padding: 8px 10px;
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
@@ -218,12 +219,13 @@
   }
 
   li {
+    margin-bottom: 2px;
     white-space: nowrap;
   }
 
   a {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;

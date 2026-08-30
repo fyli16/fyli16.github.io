@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 1em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -36,22 +36,25 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.1;
 
   & + .page__meta {
-    margin-top: -0.5em;
+    margin-top: -0.4em;
   }
 }
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
+  line-height: 1.4;
+  margin-bottom: 0.75em;
 }
 
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    margin-top: 1.25em;
+    padding-bottom: 0.35em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -61,7 +64,7 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.75rem;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -109,15 +112,15 @@
 
 .page__hero {
   position: relative;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
   @include clearfix;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
-    padding: 3em 0;
+    margin-bottom: 1.5em;
+    padding: 2em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -196,8 +199,8 @@
    ========================================================================== */
 
 .page__share {
-  margin-top: 2em;
-  padding-top: 1em;
+  margin-top: 1.25em;
+  padding-top: 0.75em;
   border-top: 1px solid $border-color;
 
   @include breakpoint(max-width $small) {
