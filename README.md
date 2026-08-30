@@ -24,6 +24,17 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+## Google Scholar auto-update
+
+This site includes an automated Scholar stats workflow for total citations, h-index, and h10-index.
+
+1. Create a GitHub Actions secret named `SERPAPI_KEY` with a valid SerpApi key.
+1. The workflow at `.github/workflows/update-scholar-stats.yml` runs daily and calls `scripts/update_scholar_stats.py`.
+1. The script writes the latest values into `_data/scholar_stats.yml`.
+1. The page templates read from that YAML file, so the numbers update without manual edits.
+
+If you do not want to use SerpApi, the script also falls back to the `scholarly` Python package, but SerpApi is more stable for Google Scholar access.
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 

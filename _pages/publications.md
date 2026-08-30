@@ -77,6 +77,8 @@ author_profile: true
   {% endfor %}
 </div>
 
+{% assign scholar = site.data.scholar_stats %}
+
 <div class="card animate-card" style="text-align: center; background: linear-gradient(135deg, rgba(139, 92, 246, 0.05) 0%, rgba(59, 130, 246, 0.05) 100%);">
   <div class="card-body">
     <h3 style="color: var(--ai-purple); margin-bottom: 1rem;">
@@ -88,18 +90,23 @@ author_profile: true
         <div style="color: #6b7280; font-size: 0.9rem;">Publications</div>
       </div>
       <div style="text-align: center; padding: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold; color: var(--ml-blue);">~800</div>
+        <div style="font-size: 2rem; font-weight: bold; color: var(--ml-blue);">{{ scholar.total_citations | default: "0" }}</div>
         <div style="color: #6b7280; font-size: 0.9rem;">Total Citations</div>
       </div>
       <div style="text-align: center; padding: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold; color: var(--ds-teal);">14</div>
+        <div style="font-size: 2rem; font-weight: bold; color: var(--ds-teal);">{{ scholar.h_index | default: "0" }}</div>
         <div style="color: #6b7280; font-size: 0.9rem;">h-index</div>
       </div>
       <div style="text-align: center; padding: 1rem;">
-        <div style="font-size: 2rem; font-weight: bold; color: var(--primary-color);">22</div>
-        <div style="color: #6b7280; font-size: 0.9rem;">i10-index</div>
+        <div style="font-size: 2rem; font-weight: bold; color: var(--primary-color);">{{ scholar.h10_index | default: "0" }}</div>
+        <div style="color: #6b7280; font-size: 0.9rem;">h10-index</div>
       </div>
     </div>
+    {% if scholar.last_updated %}
+      <p style="margin-top: -0.5rem; margin-bottom: 1.5rem; color: #6b7280; font-size: 0.85rem;">
+        Last updated: {{ scholar.last_updated | date: "%B %d, %Y" }}
+      </p>
+    {% endif %}
     <p style="margin-bottom: 1.5rem;">
       My research spans plasma physics, laser-plasma interactions, particle acceleration, and AI/ML applications in scientific computing.
     </p>

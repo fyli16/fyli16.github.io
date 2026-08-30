@@ -96,26 +96,38 @@ redirect_from:
   </div>
 </div>
 
+{% assign scholar = site.data.scholar_stats %}
+
 <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
     <h3><i class="fas fa-flask"></i> Research Impact</h3>
   </div>
   <div class="card-body">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
       <div style="text-align: center; padding: 1rem; background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(59, 130, 246, 0.1) 100%); border-radius: 8px;">
         <div style="font-size: 2rem; font-weight: bold; color: var(--ai-purple);">40+</div>
-        <div style="color: #6b7280;">Journal Papers</div>
+        <div style="color: #6b7280;">Publications</div>
       </div>
       <div style="text-align: center; padding: 1rem; background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(20, 184, 166, 0.1) 100%); border-radius: 8px;">
-        <div style="font-size: 2rem; font-weight: bold; color: var(--ml-blue);">~800</div>
-        <div style="color: #6b7280;">Citations</div>
+        <div style="font-size: 2rem; font-weight: bold; color: var(--ml-blue);">{{ scholar.total_citations | default: "0" }}</div>
+        <div style="color: #6b7280;">Total Citations</div>
       </div>
       <div style="text-align: center; padding: 1rem; background: linear-gradient(135deg, rgba(20, 184, 166, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%); border-radius: 8px;">
-        <div style="font-size: 2rem; font-weight: bold; color: var(--ds-teal);">NASA/DOE</div>
-        <div style="color: #6b7280;">Funded Projects</div>
+        <div style="font-size: 2rem; font-weight: bold; color: var(--ds-teal);">{{ scholar.h_index | default: "0" }}</div>
+        <div style="color: #6b7280;">h-index</div>
+      </div>
+      <div style="text-align: center; padding: 1rem; background: linear-gradient(135deg, rgba(251, 191, 36, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%); border-radius: 8px;">
+        <div style="font-size: 2rem; font-weight: bold; color: var(--primary-color);">{{ scholar.h10_index | default: "0" }}</div>
+        <div style="color: #6b7280;">h10-index</div>
       </div>
     </div>
-    
+
+    {% if scholar.last_updated %}
+      <p style="margin-top: -0.5rem; margin-bottom: 1rem; color: #6b7280; font-size: 0.85rem;">
+        Last updated: {{ scholar.last_updated | date: "%B %d, %Y" }}
+      </p>
+    {% endif %}
+
     <p>I've led several plasma-science <a href="https://fyli16.github.io/cv/" class="focus-modern">projects</a> funded by <strong>NASA and Department of Energy</strong>.</p>
   </div>
 </div>
