@@ -11,7 +11,7 @@ redirect_from:
 <div class="ai-pattern" style="padding: 2rem; border-radius: 12px; margin-bottom: 2rem;">
   <div class="section-header">
     <h1 class="gradient-text">Feiyu Li</h1>
-    <p style="font-size: 1.2rem; color: #6b7280; margin-top: 0.5rem;">AI Scientist • Data Scientist • Plasma Physicist</p>
+    <p style="font-size: 1.2rem; color: #6b7280; margin-top: 0.5rem;">AI/ML/Data Scientist • Computational Plasma Physicist</p>
   </div>
 </div>
 
@@ -53,14 +53,22 @@ redirect_from:
 
 <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
-    <h3><i class="fas fa-code"></i> AI/ML Projects</h3>
+    <h3><i class="fas fa-code"></i> Selected AI/ML Projects</h3>
   </div>
   <div class="card-body">
     <!-- <p>I've developed several cutting-edge ML/Deep Learning/LLM-based applications:</p> -->
+
+    <div class="gradient-border" style="padding: 1.5rem; margin: 1rem 0;">
+      <h4><i class="fas fa-robot"></i> M Capital: Multi-Agent Investment Platform</h4>
+      <p>A multi-agent LLM for providing auditable investment recommendations.</p>
+      <a href="https://github.com/fyli16/M-Capital" class="btn btn-modern btn-ai" target="_blank">
+        <i class="fab fa-github"></i> View Project
+      </a>
+    </div>
     
     <div class="gradient-border" style="padding: 1.5rem; margin: 1rem 0;">
       <h4><i class="fas fa-robot"></i> RAG-based Tax Filing Chatbot</h4>
-      <p>A sophisticated chatbot using GPT, Pinecone, and Streamlit for intelligent tax assistance.</p>
+      <p>A chatbot using GPT, Pinecone, and Streamlit for intelligent tax assistance.</p>
       <a href="https://github.com/fyli16/tax_pro_chatbot" class="btn btn-modern btn-ai" target="_blank">
         <i class="fab fa-github"></i> View Project
       </a>
@@ -82,9 +90,9 @@ redirect_from:
       </a>
     </div>
     
-    <p style="margin-top: 1.5rem; font-style: italic; color: #6b7280;">
+    <!-- <p style="margin-top: 1.5rem; font-style: italic; color: #6b7280;">
       <i class="fas fa-rocket"></i> <strong>More AI projects coming soon!</strong>
-    </p>
+    </p> -->
   </div>
 </div>
 
@@ -114,7 +122,7 @@ redirect_from:
 
 <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
-    <h3><i class="fas fa-star"></i> Selected Lead-Author Publications</h3>
+    <h3><i class="fas fa-star"></i> Selected Publications</h3>
   </div>
   <div class="card-body">
     <!-- <p>Some selected <em>lead-author</em> work:</p> -->
