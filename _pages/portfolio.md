@@ -132,7 +132,7 @@ layout: single
   </div>
 </div>
 
-<div class="card animate-card" style="margin-bottom: 2rem;">
+<!-- <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
     <h3><i class="fas fa-rocket"></i> Upcoming Projects</h3>
     <span class="badge badge-research">In Development</span>
@@ -161,7 +161,7 @@ layout: single
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="card animate-card" style="text-align: center; background: linear-gradient(135deg, rgba(139, 92, 246, 0.05) 0%, rgba(59, 130, 246, 0.05) 100%);">
   <div class="card-body">
