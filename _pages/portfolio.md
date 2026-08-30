@@ -40,7 +40,7 @@ layout: single
         </ul>
         
         <div style="margin-top: 1.5rem;">
-          <a href="https://github.com/fyli16/tax_pro_chatbot" class="btn btn-modern btn-ai" target="_blank">
+          <a href="https://github.com/fyli16/M-Capital" class="btn btn-modern btn-ai" target="_blank">
             <i class="fab fa-github"></i> View on GitHub
           </a>
           <a href="#" class="btn btn-modern btn-outline" style="margin-left: 0.5rem;">
