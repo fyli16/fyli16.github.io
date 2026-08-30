@@ -14,6 +14,46 @@ layout: single
 
 <div class="card animate-card" style="margin-bottom: 2rem;">
   <div class="card-header">
+    <h3><i class="fas fa-robot"></i> M Capital: Multi-Agent Investment Platform</h3>
+    <span class="badge badge-ai">AI/LLM</span>
+  </div>
+  <div class="card-body">
+    <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 1.5rem; align-items: start;">
+      <div style="text-align: center;">
+        <i class="fas fa-robot" style="font-size: 4rem; color: var(--ai-purple); margin-bottom: 1rem;"></i>
+        <div style="display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;">
+          <span class="badge badge-ai">LLM</span>
+          <span class="badge badge-ml">LangGraph</span>
+          <span class="badge badge-ds">pgvector</span>
+        </div>
+      </div>
+      <div>
+        <h4>Project Overview</h4>
+        <p>A multi-agent LLM system (LangGraph) in which 6 specialized agents research and debate to produce auditable investment recommendationa multi-agent LLM system (LangGraph) in which 6 specialized agents research and debate to produce auditable investment recommendations.</p>
+        
+        <h4>Key Features</h4>
+        <ul class="list-modern">
+          <li>Convergence-gated debate plus an adversarial risk agent</li>
+          <li>pgvector retrieval memory, Pydantic-enforced structured outputs</li>
+          <li>Multi-provider LLM routing with token budgeting</li>
+          <li>Real market-data integrations</li>
+        </ul>
+        
+        <div style="margin-top: 1.5rem;">
+          <a href="https://github.com/fyli16/tax_pro_chatbot" class="btn btn-modern btn-ai" target="_blank">
+            <i class="fab fa-github"></i> View on GitHub
+          </a>
+          <a href="#" class="btn btn-modern btn-outline" style="margin-left: 0.5rem;">
+            <i class="fas fa-external-link-alt"></i> Live Demo
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card animate-card" style="margin-bottom: 2rem;">
+  <div class="card-header">
     <h3><i class="fas fa-robot"></i> RAG-based Tax Filing Chatbot</h3>
     <span class="badge badge-ai">AI/LLM</span>
   </div>
@@ -33,9 +73,9 @@ layout: single
         
         <h4>Key Features</h4>
         <ul class="list-modern">
-          <li>Advanced RAG architecture for accurate information retrieval</li>
+          <li>RAG architecture for accurate information retrieval</li>
           <li>Real-time tax code updates and compliance checking</li>
-          <li>Natural language processing for complex tax queries</li>
+          <li>NLP for complex tax queries</li>
           <li>User-friendly Streamlit interface</li>
         </ul>
         
@@ -69,7 +109,7 @@ layout: single
       </div>
       <div>
         <h4>Project Overview</h4>
-        <p>A deep learning model designed to predict proton beam energy for therapeutic applications in medical physics. This system helps optimize radiation therapy treatments by accurately forecasting beam characteristics.</p>
+        <p>A DL model designed to predict proton beam energy for therapeutic applications in medical physics. This system helps optimize radiation therapy treatments by accurately forecasting beam characteristics.</p>
         
         <h4>Key Features</h4>
         <ul class="list-modern">
