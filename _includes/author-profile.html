@@ -25,21 +25,26 @@
       {% if author.location %}
         <li><a href="https://www.google.com/maps/search/{{ author.location | replace: ' ', '+' }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
       {% endif %}
+      {% comment %}
       {% if author.employer %}
         <li><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      {% endcomment %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% comment %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-       {% if author.researchgate %}
+      {% endcomment %}
+      {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+      {% comment %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
@@ -49,9 +54,11 @@
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
+      {% endcomment %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
+      {% comment %}
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
@@ -64,9 +71,11 @@
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
+      {% endcomment %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% comment %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
@@ -103,9 +112,11 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+      {% endcomment %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      {% comment %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -120,7 +131,8 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% endcomment %}
     </ul>
   </div>
 </div>
