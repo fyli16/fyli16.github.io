@@ -29,13 +29,13 @@ redirect_from:
     <h3><i class="fas fa-brain"></i> Research Focus</h3>
   </div>
   <div class="card-body">
-    <p>I am primarily interested in <span class="badge badge-ai">Artificial Intelligence</span>, <span class="badge badge-ml">Large Language Models</span>, <span class="badge badge-ml">Deep Learning</span>, <span class="badge badge-ml">Machine Learning</span>, <span class="badge badge-ds">Data Science</span>, and <span class="badge badge-research">Plasma Technologies</span>, with applications in both industry and frontier science.</p>
+    <p>I am primarily interested in <span class="badge badge-ai">AI agents</span>, <span class="badge badge-ml">LLMs</span>, <span class="badge badge-ml">DL</span>, <span class="badge badge-ml">ML</span>, <span class="badge badge-ds">Data Science</span>, and <span class="badge badge-research">Plasma Science Technologies</span>, with applications in both industry and frontier science.</p>
     
     <div style="margin-top: 1rem;">
       <h4>Industry Applications:</h4>
       <ul class="list-modern">
-        <li>Search & Recommendation Systems</li>
-        <li>Forecasting & Time Series Analysis</li>
+        <li>Predictive modeling</li>
+        <li>Anomaly detection</li>
         <li>Process Optimization</li>
         <li>Risk Management</li>
       </ul>
